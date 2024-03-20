@@ -1,3 +1,4 @@
+![logo](https://github.com/dushyantsharma460/dushyantsharma460/blob/main/Black%20and%20Blue%20Trendy%20Gaming%20Youtube%20Banner%20(1).png)
 <h1 align="center">Hi 👋, I'm Dushyant</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
