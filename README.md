@@ -118,10 +118,22 @@ Cloud Architecture
 System Design
 Advanced AWS
 ```
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dushyantsharma460&theme=github_dark" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dushyantsharma460&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dushyantsharma460&theme=tokyonight" />
+  
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dushyantsharma460&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dushyantsharma460&theme=tokyonight" />
+  
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dushyantsharma460&theme=tokyonight&utcOffset=5.5" />
 </p>
 
 ## 🔥 GitHub Streak
