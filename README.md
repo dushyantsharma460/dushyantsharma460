@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Dushyant</h1>
 
-<h3 align="center">Full Stack Developer</h3>
+<h3 align="center">Full Stack Developer | Backend Developer | AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Backend+Developer;AI+Enthusiast;React+Native+Developer;Agentic+AI+Explorer;Building+Cool+Things+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Backend+Developer;AI+Enthusiast;React+Native+Developer;Agentic+AI+Explorer;Building+Scalable+Applications;Building+Cool+Things+🚀" alt="Typing SVG" />
 </p>
 
 <p align="center">
-Building scalable applications, AI-powered products and mobile experiences.
+  Building scalable applications, AI-powered products and mobile experiences.
 </p>
 
 ---
@@ -15,89 +15,110 @@ Building scalable applications, AI-powered products and mobile experiences.
 ## 🚀 About Me
 
 - 🎓 B.Sc. Data Science & AI @ IIT Guwahati
-- 💻 Full Stack Developer
-- 🤖 Interested in Agentic AI & LLM Integrations
+- 💻 Full Stack Developer with a strong focus on Backend Engineering
+- 🤖 Exploring Agentic AI, RAG Systems & LLM Integrations
 - 📱 Learning Mobile Development with React Native
-- ☁️ Exploring Cloud Architecture & DevOps
-- 🚀 Passionate about Backend Engineering
+- ☁️ Interested in Cloud Architecture, DevOps & System Design
+- 🚀 Passionate about solving real-world problems through technology
 
 ---
 
-## 💻 Tech Stack
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+---
+
+# 💻 Tech Stack
 
 ### Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript" />
-</p>
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,nextjs" />
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+### Mobile
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### Backend
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
-</p>
-
-Frameworks: Hono • Express.js • Flask
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Hono](https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white)
 
 ### Databases
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
-</p>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### AI / Data Science
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+
+### AI & Automation
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
 
 ### Cloud & DevOps
 
-<p>
-<img src="https://skillicons.dev/icons?i=docker,aws,cloudflare,git,github,linux" />
-</p>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Render](https://img.shields.io/badge/Render-430098?style=for-the-badge&logo=render&logoColor=white)
 
 ### Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=postman,vscode" />
-</p>
-
-### AI, Data & Automation
-
-```txt
-Agentic AI
-LLM Integrations
-RAG Systems
-n8n Workflows
-NumPy
-Pandas
-Matplotlib
-Seaborn
-REST APIs
-API Design
-```
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-## 🔭 Currently
+## 🤖 Currently Exploring
 
 ```yaml
-building:
-  - Backend Systems
-  - AI Applications
-  - Mobile Apps
-
-learning:
-  - Agentic AI
-  - Multi-Agent Systems
-  - System Design
-  - Cloud Architecture
-
-exploring:
-  - MCP Servers
-  - RAG Pipelines
-  - Advanced AWS
+Agentic AI
+LLM Integrations
+RAG Systems
+Multi-Agent Systems
+MCP Servers
+AI Workflows
+React Native
+Cloud Architecture
+System Design
+Advanced AWS
 ```
 
 ---
@@ -105,9 +126,9 @@ exploring:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -115,14 +136,24 @@ exploring:
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </p>
 
 ---
 
 ## 🐍 Contribution Snake
 
-Coming Soon...
+```txt
+Setup GitHub Action after creating profile README repository.
+```
 
 ---
 
@@ -132,17 +163,9 @@ Coming Soon...
 while True:
     learn()
     build()
-    deploy()
+    ship()
     improve()
 ```
-
----
-
-## 📫 Connect With Me
-
-- LinkedIn: YOUR_LINKEDIN_URL
-- Portfolio: YOUR_PORTFOLIO_URL
-- Email: YOUR_EMAIL
 
 ---
 
