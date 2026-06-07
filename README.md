@@ -3,7 +3,7 @@
 <h3 align="center">Full Stack Developer | Backend Developer | AI Enthusiast</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Backend+Developer;Agentic+AI+Explorer;React+Native+Developer;Building+Scalable+Applications;Building+Cool+Things+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Backend+Developer;Agentic+AI+Explorer;React+Native+Developer;Building+Scalable+Applications;Building+Cool+Things+🚀" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -34,7 +34,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:manuchintubhaibhai"gmail.com">
+<a href="mailto:manuchintubhaibhai@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
@@ -120,7 +120,13 @@ Cloud Architecture
 System Design
 Advanced AWS
 ```
+## 📊 GitHub Stats
 
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dushyantsharma460&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dushyantsharma460&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 ---
 
 ## 🔥 GitHub Streak
@@ -133,9 +139,9 @@ Advanced AWS
 
 ## 🐍 Contribution Snake
 
-```txt
-Setup GitHub Action after creating profile README repository.
-```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dushyantsharma460/dushyantsharma460/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+</p>
 
 ---
 
