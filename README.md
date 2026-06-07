@@ -3,7 +3,7 @@
 <h3 align="center">Full Stack Developer | Backend Developer | AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Backend+Developer;AI+Enthusiast;React+Native+Developer;Agentic+AI+Explorer;Building+Scalable+Applications;Building+Cool+Things+🚀" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Backend+Developer;Agentic+AI+Explorer;React+Native+Developer;Building+Scalable+Applications;Building+Cool+Things+🚀" />
 </p>
 
 <p align="center">
@@ -26,15 +26,15 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/dushyantsharma460">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/dushyant-sharma-pandit/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:manuchintubhaibhai"gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
@@ -126,7 +126,7 @@ Advanced AWS
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=dushyantsharma460&theme=tokyonight&hide_border=true"/>
 </p>
 
 
