@@ -3,84 +3,96 @@
 <h3 align="center">Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+Developer;AI+Enthusiast;React+Native+Developer;Agentic+AI+Explorer;Building+Cool+Things+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Backend+Developer;AI+Enthusiast;React+Native+Developer;Agentic+AI+Explorer;Building+Cool+Things+🚀" />
 </p>
 
 <p align="center">
-  Building scalable applications, AI-powered products and mobile experiences.
+Building scalable applications, AI-powered products and mobile experiences.
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 B.Sc. in Data Science & AI @ IIT Guwahati
-- 💻 Full Stack Developer passionate about Backend Engineering
-- 🤖 Exploring Agentic AI, RAG Systems & LLM Integrations
-- 📱 Currently focused on Mobile Development with React Native
-- ☁️ Learning Cloud Architecture & DevOps
-- 🚀 Love building products that solve real-world problems
+- 🎓 B.Sc. Data Science & AI @ IIT Guwahati
+- 💻 Full Stack Developer
+- 🤖 Interested in Agentic AI & LLM Integrations
+- 📱 Learning Mobile Development with React Native
+- ☁️ Exploring Cloud Architecture & DevOps
+- 🚀 Passionate about Backend Engineering
 
 ---
 
 ## 💻 Tech Stack
 
-<div align="center">
-
 ### Languages
 
+<p>
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript" />
+</p>
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=react,nextjs" />
-
-### Mobile
-
-<img src="https://skillicons.dev/icons?i=react" />
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,nextjs" />
+</p>
 
 ### Backend
 
+<p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
+</p>
+
+Frameworks: Hono • Express.js • Flask
 
 ### Databases
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+</p>
 
 ### Cloud & DevOps
 
-<img src="https://skillicons.dev/icons?i=docker,aws,github,git,linux" />
+<p>
+<img src="https://skillicons.dev/icons?i=docker,aws,cloudflare,git,github,linux" />
+</p>
 
-</div>
+### Tools
 
----
+<p>
+<img src="https://skillicons.dev/icons?i=postman,vscode" />
+</p>
 
-## 🤖 AI & Automation
+### AI, Data & Automation
 
 ```txt
-• Agentic AI
-• LLM Integrations
-• RAG Systems
-• n8n Workflows
-• AI Automation
-• Prompt Engineering
+Agentic AI
+LLM Integrations
+RAG Systems
+n8n Workflows
+NumPy
+Pandas
+Matplotlib
+Seaborn
+REST APIs
+API Design
 ```
 
 ---
 
-## 🔭 Currently Working On
+## 🔭 Currently
 
 ```yaml
 building:
-  - AI Applications
   - Backend Systems
+  - AI Applications
   - Mobile Apps
 
 learning:
   - Agentic AI
   - Multi-Agent Systems
-  - Cloud Architecture
   - System Design
+  - Cloud Architecture
 
 exploring:
   - MCP Servers
@@ -103,16 +115,14 @@ exploring:
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
+Coming Soon...
 
 ---
 
@@ -130,14 +140,12 @@ while True:
 
 ## 📫 Connect With Me
 
-<p align="left">
-💼 Open to collaboration on interesting projects
-
-🌱 Always learning something new
-
-🚀 Building for the future
-</p>
+- LinkedIn: YOUR_LINKEDIN_URL
+- Portfolio: YOUR_PORTFOLIO_URL
+- Email: YOUR_EMAIL
 
 ---
 
-<h3 align="center">Build. Learn. Ship. Repeat. 🚀</h3>
+<h3 align="center">
+Build. Learn. Ship. Repeat. 🚀
+</h3>
