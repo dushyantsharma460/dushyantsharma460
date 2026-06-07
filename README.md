@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dushyant</h1>
 
-<h3 align="center">Full Stack Developer | Backend Developer | AI Enthusiast</h3>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Backend+Developer;Agentic+AI+Explorer;React+Native+Developer;Building+Scalable+Applications;Building+Cool+Things+🚀" alt="Typing SVG" />
 </p>
@@ -123,11 +121,8 @@ Advanced AWS
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dushyantsharma460&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dushyantsharma460&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dushyantsharma460&theme=github_dark" />
 </p>
----
 
 ## 🔥 GitHub Streak
 
