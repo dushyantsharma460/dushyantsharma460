@@ -128,7 +128,7 @@ Advanced AWS
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=dushyantsharma460&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=dushyantsharma460&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </p>
 
 
